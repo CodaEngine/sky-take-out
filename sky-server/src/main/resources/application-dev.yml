@@ -6,3 +6,8 @@ sky:
     database: sky_take_out
     username: root
     password: ls2745352269
+  alioss:
+    access-key-id: LTAI5tAs9qTSQ3aXeSCkVn5W
+    access-key-secret: EbR49VokVuxUQJDdqCzGPzpLxkXDFK
+    endpoint: oss-cn-beijing.aliyuncs.com
+    bucket-name: codaengine
